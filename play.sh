@@ -1,0 +1,1 @@
+play /home/murat/CLionProjects/untitled1/forever.mp3 trim 0.0 60
